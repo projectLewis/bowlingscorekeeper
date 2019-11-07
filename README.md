@@ -1,10 +1,10 @@
 ## This project is a bowling scorekeeper
 
+## 
 
+## Available Scripts
 
-## Standard React Scripts for the front end
-
-In the project directory, you can run:
+The React frontend has the below standard scripts available. There will be additional scripts once the express backend is added.
 
 ### `npm start`
 
